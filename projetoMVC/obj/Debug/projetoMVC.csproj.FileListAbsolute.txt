@@ -1,0 +1,10 @@
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\bin\Debug\projetoMVC.exe.config
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\bin\Debug\projetoMVC.exe
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\bin\Debug\projetoMVC.pdb
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\obj\Debug\projetoMVC.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\obj\Debug\projetoMVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\obj\Debug\projetoMVC.Properties.Resources.resources
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\obj\Debug\projetoMVC.csproj.GenerateResource.cache
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\obj\Debug\projetoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\obj\Debug\projetoMVC.exe
+C:\Users\Henrique\source\repos\projetoMVC\projetoMVC\obj\Debug\projetoMVC.pdb
